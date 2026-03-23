@@ -1,0 +1,206 @@
+{
+  "appTitle": "JobSpark Interview Simulator",
+  "appSubtitle": "Presidential AI Challenge 2026 · Middle School Prep",
+  "rubric": [
+    {
+      "id": "problem_identification",
+      "label": "Problem Identification and Impact",
+      "points": 10,
+      "emoji": "🆘",
+      "color": "#7C6FFF"
+    },
+    {
+      "id": "relevance_president",
+      "label": "Relevance to President and Administration",
+      "points": 10,
+      "emoji": "🇺🇸",
+      "color": "#2DD4BF"
+    },
+    {
+      "id": "technical_implementation",
+      "label": "Technical Implementation",
+      "points": 20,
+      "emoji": "🔧",
+      "color": "#FB923C"
+    },
+    {
+      "id": "process_development",
+      "label": "Process and Development",
+      "points": 20,
+      "emoji": "🔄",
+      "color": "#F472B6"
+    },
+    {
+      "id": "ai_validation",
+      "label": "Use of AI and Validation",
+      "points": 20,
+      "emoji": "🤖",
+      "color": "#A78BFA"
+    },
+    {
+      "id": "originality_creativity",
+      "label": "Originality and Creativity",
+      "points": 10,
+      "emoji": "💡",
+      "color": "#34D399"
+    },
+    {
+      "id": "presentation_quality",
+      "label": "Presentation/Media Quality",
+      "points": 10,
+      "emoji": "📹",
+      "color": "#60A5FA"
+    }
+  ],
+  "questions": {
+    "problem_identification": [
+      {
+        "q": "What problem did you see in your community that made you build JobSpark?",
+        "a": "We noticed kids and teens in our Portland neighborhood really want jobs but feel stuck. We saw Help Wanted signs at local coffee shops, parks needing camp counselors, and small businesses looking for help with digital tasks. But our friends weren't applying. When we asked why, they said they were confused about finding age-appropriate jobs, scared of writing cover letters with perfect grammar, and nervous about interviews that felt like scary tests. Adult sites like LinkedIn or Indeed were too complicated, asking for 10 years of experience. Bureau of Labor Statistics data shows youth unemployment is a national trend getting worse. JobSpark solves this by translating gaming, video editing, and social media skills into professional resumes. We bridge the translation gap so young people get hired and businesses find talent. It's exciting to help our community grow stronger together. Our app makes job hunting fun and easy for Gen Alpha.",
+        "keys": [
+          "Observed Help Wanted signs at coffee shops, parks, small businesses in Portland",
+          "BLS data shows rising youth unemployment trend nationally",
+          "Friends cited fears: cover letters, interviews, adult sites like LinkedIn"
+        ]
+      },
+      {
+        "q": "How does JobSpark improve outcomes for kids looking for work?",
+        "a": "JobSpark turns everyday digital skills into real job opportunities. Kids who game, edit videos, or run school clubs often don't know how to list those on a resume. Our AI Career Matcher scans interests like 'I love dogs and being outside' and matches to verified jobs at Rover or YMCA, respecting age laws like no jobs for under 14-year-olds. The Cover Letter Writer creates high-energy letters using your name, age like 14, and company details. It helped our peers realize they qualify for local gigs. Businesses get young talent for digital tasks. We tested at a community science fair where parents said it removes barriers. Long-term, early work boosts lifelong earnings per research. In Portland, it connects kids to summer camps and shops. We're proud it empowers Gen Alpha to start building futures now.",
+        "keys": [
+          "Matches interests to verified jobs like Rover, YMCA for age 14+",
+          "Cover Letter uses name, age 14, company for personalized output",
+          "Science fair feedback: removes barriers for Portland youth"
+        ]
+      },
+      {
+        "q": "Why is the job translation gap a big issue for your generation?",
+        "a": "Gen Alpha grew up digital but struggles translating skills to work. Helping siblings with homework becomes 'tutoring experience,' gaming becomes 'strategic thinking.' Without this, talented kids skip local jobs despite Help Wanted signs everywhere. We surveyed peers: confusion on age-legal roles, grammar fears in letters, interview nerves. National data from USAFacts shows stuck job market. JobSpark's AI fixes it: input skills, get pro resume. Filters by salary, location, remote. For a 14-year-old, suggests pet store over hazardous work. Community impact: parks staffed, shops organized. Our science fair demo showed 20 testers navigating easily. It builds responsibility, time management. President Trump values economic competitiveness; this matches youth skills to open jobs fast. We're bridging gap for stronger Portland neighborhoods.",
+        "keys": [
+          "Surveyed peers: age confusion, grammar fears, interview nerves",
+          "USAFacts data on stuck national job market",
+          "20 testers at science fair navigated app easily"
+        ]
+      }
+    ],
+    "relevance_president": [
+      {
+        "q": "How does JobSpark fit President Trump's priorities?",
+        "a": "President Trump focuses on economic competitiveness and equity. JobSpark matches youth skills to jobs fast, boosting productivity. No college needed: gaming to strategy roles. Helps fill millions open jobs. Rising unemployment per BLS; our app cuts barriers. Early work builds responsibility, per research. Portland local: coffee shops, parks staffed. Trump's vision: fair economy via hard work. We ignore connections/degrees, focus practical skills like homework help to tutoring. Gemini/Claude hybrid powers it. Science fair feedback refined. Gen Alpha empowered for futures. Strengthens nation: connected workforce. Proud alignment with 2026 agenda.",
+        "keys": [
+          "Boosts productivity matching skills to millions open jobs",
+          "BLS rising unemployment addressed",
+          "Early work builds responsibility per research"
+        ]
+      },
+      {
+        "q": "Why does your project support national economic goals?",
+        "a": "Trump's administration values growth, equity. JobSpark bridges skills gap: digital natives to workforce. Translation: social media to pro language. Filters age-legal, local/remote. Businesses hire youth for digital tasks. National: stuck market per USAFacts, low growth 20 years BLS. Early experiential learning raises lifetime earnings. Portland impact: parks, shops filled. AI fair: no bias to schools/parents. Science fair: parents praised. Iterated tabs clearer. Gen Alpha starts strong. Ties competitiveness: efficient matching. Proud contribution.",
+        "keys": [
+          "USAFacts stuck market, BLS 20-year low growth",
+          "Lifetime earnings rise from early learning",
+          "Portland parks/shops filled via youth hires"
+        ]
+      }
+    ],
+    "technical_implementation": [
+      {
+        "q": "What AI models and tools power JobSpark?",
+        "a": "Gemini API core: Career Matcher processes interests like 'dogs/outside' to Rover matches. Cover Letter Writer uses name, age 14, company for pro output. Interview Coach situational via prompts. Claude built resume engine logic. Hybrid: Claude code precision, Gemini encouraging voice. Database verified jobs: YMCA, clinics. Filters federal age laws. Sign-in home page: discovery, saved, applied tabs. Search bar companies. Bug-free: clicked every button post-adds. Video demo YouTube shows. Portland-tested. Proud functional AI solution.",
+        "keys": [
+          "Gemini API for Matcher, Letter, Coach",
+          "Claude for resume engine logic",
+          "Database 100s verified jobs like YMCA"
+        ]
+      },
+      {
+        "q": "How does the AI Career Matcher work technically?",
+        "a": "User inputs text like 'love dogs outside.' Gemini scans database: Rover, YMCA legal for age. Returns matches with descriptions, salaries, ratings, remote/location. Filters programmed federal guidelines: no hazards under 16. Profile saves achievements. Resume Builder translates: gaming to strategy. Iterated 3 versions. Science fair validated flow. Clean tabs post-feedback. Makes pro language easy.",
+        "keys": [
+          "Gemini scans for age-legal Rover/YMCA matches",
+          "Federal filters: no hazards under 16",
+          "3 versions iterated for flow"
+        ]
+      }
+    ],
+    "process_development": [
+      {
+        "q": "Walk me through building JobSpark from start.",
+        "a": "Observed community problem: kids want jobs, stuck. Chose AI jobs topic for Challenge. Researched Gemini/Claude, LinkedIn model. Brainstormed screens: discovery, saved, applied. First basic version lacked features. Iterated 3 times: added search, profile, tips. Claude prompts fixed bugs. Coach advice: not perfect first try. Science fair feedback: clearer tabs, descriptions. Hybrid AI post-car race test. Named JobSpark final style. Proud iterative process.",
+        "keys": [
+          "Researched Gemini/Claude, LinkedIn model",
+          "3 iterations added search/profile/tips",
+          "Science fair led to clearer tabs"
+        ]
+      },
+      {
+        "q": "What setbacks did you face and fix?",
+        "a": "First app missing tools. Prompted Claude for issues, repeated till bug-free. Gemini gave resume section not button; specified color/place. Parent: letters stuffy; youth-focused prompts. Interview generic; situational like pet store dog loose. Science fair: confusing tabs; limited buttons. Clean youth-friendly. Learned clear AI talk. 20 personalities tested. Never finished process.",
+        "keys": [
+          "Claude fixed bugs via repeated prompts",
+          "Gemini button spec: color/place details",
+          "20 AI personalities for interviews"
+        ]
+      }
+    ],
+    "ai_validation": [
+      {
+        "q": "How did you test the AI features?",
+        "a": "Gemini adds: salary/categories/submit. Button clicked all. Design safe. Science fair 20 testers. Learned clear prompts: button not section. Car race: Gemini explains better. 20 personalities: library manager to camp. Situational better. Parents: youth voice. Safe supervised.",
+        "keys": [
+          "Tested Gemini salary/categories/submit adds",
+          "20 science fair testers",
+          "20 AI personalities tested"
+        ]
+      },
+      {
+        "q": "What feedback validated your AI use?",
+        "a": "Science fair: clearer sections. Parents: less stuffy letters, situational questions. Peers: less confusing. Updated prompts. Helpful realistic.",
+        "keys": [
+          "Science fair: clearer app sections",
+          "Parents: youth voice, situational Qs",
+          "Peers: reduced confusion"
+        ]
+      }
+    ],
+    "originality_creativity": [
+      {
+        "q": "What makes JobSpark unique for youth?",
+        "a": "Built by/for youth: forgets adult fears. Vibe matching: fast-paced skips quiet. Write with Gemini teaches structure. Discovery niche: Digital Assistant. Simplifies jargon. First digital-to-work translation. Game/social easy.",
+        "keys": [
+          "Vibe matching: fast-paced vs quiet jobs",
+          "Gemini teaches letter structure",
+          "Niche: Digital Assistant roles"
+        ]
+      },
+      {
+        "q": "How is your AI application novel?",
+        "a": "Translates gaming to pro: strategic thinking. Custom youth prompts. Hybrid Claude/Gemini. Science fair unique.",
+        "keys": [
+          "Gaming skills to strategic thinking",
+          "Youth-specific prompts",
+          "Claude/Gemini hybrid unique"
+        ]
+      }
+    ],
+    "presentation_quality": [
+      {
+        "q": "Tell me about your demo video.",
+        "a": "YouTube https://www.youtube.com/watch?v=37GZIq1cof8 shows app flow: sign-in, matcher, letter gen. Engaging walkthrough. Gemini share https://gemini.google.com/share/857ceec59532 try live. Science fair slideshow explained problem.",
+        "keys": [
+          "YouTube demo ID 37GZIq1cof8",
+          "Gemini live share 857ceec59532",
+          "Science fair slideshow used"
+        ]
+      },
+      {
+        "q": "How does media enhance understanding?",
+        "a": "Video full flow: discovery filters, AI outputs. Live link interact. Slides problem/solution. Clear engaging.",
+        "keys": [
+          "Video shows discovery filters, AI outputs",
+          "Live Gemini link for interaction",
+          "Slides cover problem/solution"
+        ]
+      }
+    ]
+  }
+}
