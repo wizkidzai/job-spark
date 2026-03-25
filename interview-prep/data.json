@@ -56,149 +56,149 @@
     "problem_identification": [
       {
         "q": "What problem did you see in your community that made you build JobSpark?",
-        "a": "We noticed kids and teens in our Portland neighborhood really want jobs but feel stuck. We saw Help Wanted signs at local coffee shops, parks needing camp counselors, and small businesses looking for help with digital tasks. But our friends weren't applying. When we asked why, they said they were confused about finding age-appropriate jobs, scared of writing cover letters with perfect grammar, and nervous about interviews that felt like scary tests. Adult sites like LinkedIn or Indeed were too complicated, asking for 10 years of experience. Bureau of Labor Statistics data shows youth unemployment is a national trend getting worse. JobSpark solves this by translating gaming, video editing, and social media skills into professional resumes. We bridge the translation gap so young people get hired and businesses find talent. It's exciting to help our community grow stronger together. Our app makes job hunting fun and easy for Gen Alpha.",
+        "a": "We noticed that a lot of kids and teenagers in our community wanted to work, but they felt stuck before they even started. Around Portland, we saw Help Wanted signs at coffee shops, parks that needed camp counselors, and small businesses that needed help with digital tasks and customer service. But when we asked our friends why they were not applying, they said the process felt confusing and scary. They did not know how to find jobs that fit their age, they worried about writing a formal cover letter, and they felt nervous about interviews. We also saw that adult job sites like LinkedIn and Indeed were too complicated for someone trying to get a first job. That is why we built JobSpark. We wanted to make job hunting simpler, less stressful, and more friendly for Gen Alpha. Our app helps turn the skills young people already have into real job opportunities.",
         "keys": [
-          "Observed Help Wanted signs at coffee shops, parks, small businesses in Portland",
-          "BLS data shows rising youth unemployment trend nationally",
-          "Friends cited fears: cover letters, interviews, adult sites like LinkedIn"
+          "Saw Help Wanted signs at Portland coffee shops, parks, and small businesses",
+          "Friends said they were confused, nervous, and unsure about first jobs",
+          "Adult sites like LinkedIn and Indeed felt too hard for first-time workers"
         ]
       },
       {
         "q": "How does JobSpark improve outcomes for kids looking for work?",
-        "a": "JobSpark turns everyday digital skills into real job opportunities. Kids who game, edit videos, or run school clubs often don't know how to list those on a resume. Our AI Career Matcher scans interests like 'I love dogs and being outside' and matches to verified jobs at Rover or YMCA, respecting age laws like no jobs for under 14-year-olds. The Cover Letter Writer creates high-energy letters using your name, age like 14, and company details. It helped our peers realize they qualify for local gigs. Businesses get young talent for digital tasks. We tested at a community science fair where parents said it removes barriers. Long-term, early work boosts lifelong earnings per research. In Portland, it connects kids to summer camps and shops. We're proud it empowers Gen Alpha to start building futures now.",
+        "a": "JobSpark helps young people turn everyday digital skills into real job opportunities. A lot of kids already know how to game, edit videos, help with social media, or run school clubs, but they do not always know how to describe those skills on a resume. Our app helps translate those experiences into professional language that employers can understand. The AI Career Matcher also helps users find jobs that fit their age and interests, like matching someone who likes dogs and being outside with jobs at places such as Rover or the YMCA. The Cover Letter Writer helps students make a strong first impression by creating a friendly and professional letter with their name, age, and company details. We also tested the app at a community science fair, and the feedback showed that it made job searching feel less overwhelming. JobSpark gives kids a real path forward while also helping local businesses find young talent.",
         "keys": [
-          "Matches interests to verified jobs like Rover, YMCA for age 14+",
-          "Cover Letter uses name, age 14, company for personalized output",
-          "Science fair feedback: removes barriers for Portland youth"
+          "Matches interests to jobs like Rover and the YMCA",
+          "Uses name, age, and company details in cover letters",
+          "Science fair feedback showed the app felt less overwhelming"
         ]
       },
       {
         "q": "Why is the job translation gap a big issue for your generation?",
-        "a": "Gen Alpha grew up digital but struggles translating skills to work. Helping siblings with homework becomes 'tutoring experience,' gaming becomes 'strategic thinking.' Without this, talented kids skip local jobs despite Help Wanted signs everywhere. We surveyed peers: confusion on age-legal roles, grammar fears in letters, interview nerves. National data from USAFacts shows stuck job market. JobSpark's AI fixes it: input skills, get pro resume. Filters by salary, location, remote. For a 14-year-old, suggests pet store over hazardous work. Community impact: parks staffed, shops organized. Our science fair demo showed 20 testers navigating easily. It builds responsibility, time management. President Trump values economic competitiveness; this matches youth skills to open jobs fast. We're bridging gap for stronger Portland neighborhoods.",
+        "a": "We think the translation gap is a big issue because many kids already have useful skills, but they do not know how to explain them in a way that employers understand. For example, helping siblings with homework can show teaching skills, and making videos can show creativity and planning. If those skills are not translated well, talented young people may never even apply for jobs. In our research and peer conversations, we heard the same worries again and again: people were unsure which jobs were legal for their age, they did not know what to write in a cover letter, and they felt nervous about interviews. JobSpark helps solve that by turning everyday experiences into resume-ready language and by suggesting age-appropriate jobs nearby. We also tested the app with 20 people at a science fair, and they were able to use it easily. That showed us the problem is real, and that a simple AI tool can make a big difference.",
         "keys": [
-          "Surveyed peers: age confusion, grammar fears, interview nerves",
-          "USAFacts data on stuck national job market",
-          "20 testers at science fair navigated app easily"
+          "Kids often forget to mention real skills like tutoring or video editing",
+          "We heard the same worries about age rules, cover letters, and interviews",
+          "20 science fair testers were able to use the app easily"
         ]
       }
     ],
     "relevance_president": [
       {
         "q": "How does JobSpark fit President Trump's priorities?",
-        "a": "President Trump focuses on economic competitiveness and equity. JobSpark matches youth skills to jobs fast, boosting productivity. No college needed: gaming to strategy roles. Helps fill millions open jobs. Rising unemployment per BLS; our app cuts barriers. Early work builds responsibility, per research. Portland local: coffee shops, parks staffed. Trump's vision: fair economy via hard work. We ignore connections/degrees, focus practical skills like homework help to tutoring. Gemini/Claude hybrid powers it. Science fair feedback refined. Gen Alpha empowered for futures. Strengthens nation: connected workforce. Proud alignment with 2026 agenda.",
+        "a": "JobSpark fits the President’s priorities because it supports economic competitiveness and helps more people get ready for work. Our app helps young people match their skills to real jobs faster, which can make the workforce stronger and more productive. It also supports economic equity because it focuses on practical skills instead of only degrees or connections. That matters because a lot of talented students get overlooked even when they have real ability. JobSpark helps change that by giving every kid a fairer chance to find work and build confidence. It also supports local businesses, which often need help with digital tasks, customer service, or summer jobs. We believe that when students get early work experience, they learn responsibility, time management, and teamwork. That is good for our community and for the country. Our project connects local needs with national goals in a simple and useful way.",
         "keys": [
-          "Boosts productivity matching skills to millions open jobs",
-          "BLS rising unemployment addressed",
-          "Early work builds responsibility per research"
+          "Supports economic competitiveness by matching skills to jobs faster",
+          "Focuses on practical skills instead of degrees or connections",
+          "Helps students build responsibility, time management, and teamwork"
         ]
       },
       {
         "q": "Why does your project support national economic goals?",
-        "a": "Trump's administration values growth, equity. JobSpark bridges skills gap: digital natives to workforce. Translation: social media to pro language. Filters age-legal, local/remote. Businesses hire youth for digital tasks. National: stuck market per USAFacts, low growth 20 years BLS. Early experiential learning raises lifetime earnings. Portland impact: parks, shops filled. AI fair: no bias to schools/parents. Science fair: parents praised. Iterated tabs clearer. Gen Alpha starts strong. Ties competitiveness: efficient matching. Proud contribution.",
+        "a": "Our project supports national economic goals because it helps fill open jobs and prepares the next generation to join the workforce. The project explains that job growth has been at a low point for years, and unemployment has been rising because people cannot always find the right fit for their skills. JobSpark helps solve that problem by connecting young people to jobs that actually match what they can do. It also helps them learn how work works before they are older, which can improve their future earnings and confidence. This matters for the whole country because strong local businesses need workers, and young people need chances to build experience. Our app makes that connection easier by filtering jobs by age, salary, and distance. It gives students a real starting point instead of leaving them to figure everything out alone. That is why we think it supports both growth and fairness.",
         "keys": [
-          "USAFacts stuck market, BLS 20-year low growth",
-          "Lifetime earnings rise from early learning",
-          "Portland parks/shops filled via youth hires"
+          "Helps fill open jobs by matching people to the right skills",
+          "Filters jobs by age, salary, and distance",
+          "Early work experience can improve future earnings and confidence"
         ]
       }
     ],
     "technical_implementation": [
       {
         "q": "What AI models and tools power JobSpark?",
-        "a": "Gemini API core: Career Matcher processes interests like 'dogs/outside' to Rover matches. Cover Letter Writer uses name, age 14, company for pro output. Interview Coach situational via prompts. Claude built resume engine logic. Hybrid: Claude code precision, Gemini encouraging voice. Database verified jobs: YMCA, clinics. Filters federal age laws. Sign-in home page: discovery, saved, applied tabs. Search bar companies. Bug-free: clicked every button post-adds. Video demo YouTube shows. Portland-tested. Proud functional AI solution.",
+        "a": "JobSpark uses Gemini and Claude in different ways to make the app work well. Gemini powers the AI Career Matcher, the Cover Letter Writer, and the Interview Coach because it gives helpful, friendly responses that are easy for middle school students to understand. Claude helped us build the technical logic for the resume engine and other coding pieces. We also built a database of verified jobs, including places like Rover, the YMCA, and local clinics, so the app can suggest real opportunities. The app includes a sign-in page where users enter their name and age, plus a home page with discovery, saved, and applied sections. We also added a company search bar, a profile page, and resume tips. We tested each feature by clicking through the app and checking for bugs after every change. That helped us make the final version more stable and usable.",
         "keys": [
-          "Gemini API for Matcher, Letter, Coach",
-          "Claude for resume engine logic",
-          "Database 100s verified jobs like YMCA"
+          "Gemini powers the matcher, cover letters, and interview coach",
+          "Claude helped build the resume engine and coding logic",
+          "Database includes verified jobs like Rover, the YMCA, and clinics"
         ]
       },
       {
         "q": "How does the AI Career Matcher work technically?",
-        "a": "User inputs text like 'love dogs outside.' Gemini scans database: Rover, YMCA legal for age. Returns matches with descriptions, salaries, ratings, remote/location. Filters programmed federal guidelines: no hazards under 16. Profile saves achievements. Resume Builder translates: gaming to strategy. Iterated 3 versions. Science fair validated flow. Clean tabs post-feedback. Makes pro language easy.",
+        "a": "The AI Career Matcher works by taking the user’s interests and comparing them with jobs in our verified database. If someone types something like “I love dogs and being outside,” the app sends that text to Gemini, which helps find jobs that match those interests. The app then returns job options with details like descriptions, salaries, ratings, and whether the job is remote or local. We also programmed federal age rules into the logic so the app does not show jobs that are not legal for a younger user. That was important to us because we wanted the app to be safe and useful at the same time. We also made sure users can filter by salary and distance from home, which makes the search more practical. We tested the matcher several times and improved it after feedback from our science fair audience. That helped us make the matching flow clearer and more reliable.",
         "keys": [
-          "Gemini scans for age-legal Rover/YMCA matches",
-          "Federal filters: no hazards under 16",
-          "3 versions iterated for flow"
+          "Gemini matches interests like dogs and being outside to jobs",
+          "Federal age rules block jobs that are not legal for younger users",
+          "Job results include salary, ratings, and remote or local details"
         ]
       }
     ],
     "process_development": [
       {
         "q": "Walk me through building JobSpark from start.",
-        "a": "Observed community problem: kids want jobs, stuck. Chose AI jobs topic for Challenge. Researched Gemini/Claude, LinkedIn model. Brainstormed screens: discovery, saved, applied. First basic version lacked features. Iterated 3 times: added search, profile, tips. Claude prompts fixed bugs. Coach advice: not perfect first try. Science fair feedback: clearer tabs, descriptions. Hybrid AI post-car race test. Named JobSpark final style. Proud iterative process.",
+        "a": "We started by thinking about the problem first. We saw that young people wanted jobs, but they did not know where to begin, so we chose to build something that could help them search, apply, and prepare. We researched Gemini, Claude, and LinkedIn before coding so we could understand what kind of app we wanted to create. Then we brainstormed every screen before we built anything. We knew we wanted a discovery section, a saved section, and an applied section from the beginning. Our first version of the app was simple and did not include everything we wanted, so we kept improving it. Over time, we added a company search bar, a profile page, and resume tips. We also fixed bugs by giving Claude very specific prompts and repeating the process until the app worked well. The final name, JobSpark, came after we experimented with different styles and found one that felt exciting and fresh.",
         "keys": [
-          "Researched Gemini/Claude, LinkedIn model",
-          "3 iterations added search/profile/tips",
-          "Science fair led to clearer tabs"
+          "Researched Gemini, Claude, and LinkedIn before coding",
+          "Added discovery, saved, and applied sections first",
+          "Improved the app with search, profile, and resume tips"
         ]
       },
       {
         "q": "What setbacks did you face and fix?",
-        "a": "First app missing tools. Prompted Claude for issues, repeated till bug-free. Gemini gave resume section not button; specified color/place. Parent: letters stuffy; youth-focused prompts. Interview generic; situational like pet store dog loose. Science fair: confusing tabs; limited buttons. Clean youth-friendly. Learned clear AI talk. 20 personalities tested. Never finished process.",
+        "a": "We had several setbacks, but each one helped us improve the project. At first, our app did not have all the features we wanted, so we had to keep rebuilding and experimenting. When we asked Gemini for a resume submit button, it sometimes gave us something bigger than we wanted, like a whole resume section, so we learned to be more specific about size, color, and placement. We also got feedback from our parents that some of the cover letters sounded too stiff or too old-fashioned, so we changed the prompts to make the voice younger and more natural. Another problem was that the interview questions were too generic, like the kind adults ask in five-year plans. We fixed that by making the questions situational, such as asking what someone would do if a dog got loose in a pet store. We also used a science fair to get feedback from peers, mentors, and parents, and that helped us make the app clearer and easier to use. Every fix made the app stronger.",
         "keys": [
-          "Claude fixed bugs via repeated prompts",
-          "Gemini button spec: color/place details",
-          "20 AI personalities for interviews"
+          "Gemini needed exact button size, color, and placement instructions",
+          "Parents helped us make cover letters sound younger and more natural",
+          "Science fair feedback helped us make the app clearer and easier to use"
         ]
       }
     ],
     "ai_validation": [
       {
         "q": "How did you test the AI features?",
-        "a": "Gemini adds: salary/categories/submit. Button clicked all. Design safe. Science fair 20 testers. Learned clear prompts: button not section. Car race: Gemini explains better. 20 personalities: library manager to camp. Situational better. Parents: youth voice. Safe supervised.",
+        "a": "Testing was a big part of our project because we wanted the AI to be useful and safe. We tested Gemini by asking it to add features like salary information, job categories, and a button to submit a resume. After each feature was added, we clicked through the app to make sure nothing broke. We also tested design changes to make sure they did not make the website harder to use. One of our most helpful tests was asking both Gemini and Claude to create the same simple car racing game so we could compare how well they followed instructions. That showed us that Claude was stronger with code logic, while Gemini was better at explaining things in a way middle school students could understand. We also tested the Interview Coach with 20 different personalities, from a strict manager at a law firm to a relaxed camp counselor. That helped us make the AI feedback more realistic and helpful.",
         "keys": [
-          "Tested Gemini salary/categories/submit adds",
-          "20 science fair testers",
-          "20 AI personalities tested"
+          "Tested Gemini with salary, categories, and resume submit features",
+          "Compared Gemini and Claude with a car racing game test",
+          "Ran the Interview Coach with 20 different personalities"
         ]
       },
       {
         "q": "What feedback validated your AI use?",
-        "a": "Science fair: clearer sections. Parents: less stuffy letters, situational questions. Peers: less confusing. Updated prompts. Helpful realistic.",
+        "a": "The feedback we got showed us that the AI features were actually helping people. At the science fair, some people said the app felt confusing at first because there were too many buttons, so we reduced the number of buttons and made the layout cleaner. Parents told us that the cover letters sounded too formal, so we adjusted the prompts to make the tone more youth-friendly and energetic. We also changed the interview questions after people said the old ones were too generic and not useful for younger students. Instead of asking broad questions like where someone sees themselves in five years, we made the questions more specific to the job. For example, we might ask what to do if a dog got loose in a pet store aisle. That made the practice much more helpful. We also heard that more detailed job descriptions would help, so we added those too. All of this feedback helped prove that the AI was doing something useful, not just looking impressive.",
         "keys": [
-          "Science fair: clearer app sections",
-          "Parents: youth voice, situational Qs",
-          "Peers: reduced confusion"
+          "Science fair feedback helped reduce buttons and clean the layout",
+          "Parents pushed us to make cover letters more youth-friendly",
+          "Interview questions became more specific than five-year plan questions"
         ]
       }
     ],
     "originality_creativity": [
       {
         "q": "What makes JobSpark unique for youth?",
-        "a": "Built by/for youth: forgets adult fears. Vibe matching: fast-paced skips quiet. Write with Gemini teaches structure. Discovery niche: Digital Assistant. Simplifies jargon. First digital-to-work translation. Game/social easy.",
+        "a": "JobSpark is unique because it was built by youth for youth, and that changes the whole design. Most job apps are made for adults, so they use language that feels confusing or intimidating to younger students. Our app is designed to feel more like something kids already understand, with a simple layout and friendly tone. One creative part is our vibe matching system, which helps the AI understand the feeling of a job instead of only matching keywords. That means if a student likes fast-paced and exciting things, the app will not suggest something quiet and slow if it is not a good fit. We also added a feature that helps users turn digital life into work life, which is something many kids need but do not usually see in other apps. We think that makes JobSpark special because it speaks to the real lives of Gen Alpha students and helps them feel ready for the world of work.",
         "keys": [
-          "Vibe matching: fast-paced vs quiet jobs",
-          "Gemini teaches letter structure",
-          "Niche: Digital Assistant roles"
+          "Built by youth for youth with a simpler design",
+          "Vibe matching looks at the feeling of a job",
+          "Helps turn digital life into work life"
         ]
       },
       {
         "q": "How is your AI application novel?",
-        "a": "Translates gaming to pro: strategic thinking. Custom youth prompts. Hybrid Claude/Gemini. Science fair unique.",
+        "a": "Our AI application is novel because it does more than just search for jobs. It helps students understand their own skills and turn those skills into something employers can read and value. That is a creative idea because a lot of kids do not think of gaming, video editing, or helping siblings with homework as work experience. JobSpark changes that. It also uses AI in different ways for different tasks: Gemini helps with matching, writing, and coaching, while Claude helps with code and structure. We also built the app so it can suggest jobs students may never have thought about before, like digital assistant roles or social media help for local shops. Another creative piece is that the AI does not just write for the student; it helps the student learn how good writing works. That makes the app feel like a teacher and a helper at the same time. We think that is what makes it original.",
         "keys": [
-          "Gaming skills to strategic thinking",
-          "Youth-specific prompts",
-          "Claude/Gemini hybrid unique"
+          "Turns gaming, editing, and homework help into work experience",
+          "Uses Gemini for matching and Claude for code",
+          "Suggests jobs like digital assistant and social media help"
         ]
       }
     ],
     "presentation_quality": [
       {
         "q": "Tell me about your demo video.",
-        "a": "YouTube https://www.youtube.com/watch?v=37GZIq1cof8 shows app flow: sign-in, matcher, letter gen. Engaging walkthrough. Gemini share https://gemini.google.com/share/857ceec59532 try live. Science fair slideshow explained problem.",
+        "a": "We made a demo video so judges could quickly understand how JobSpark works. The video shows the app flow from sign-in to the job matcher, cover letter tool, and interview practice. It helps people see the project in action instead of only reading about it. We also included a live project link through Gemini so people could try it themselves. That made the presentation more interactive and easier to understand. In addition, we shared our project through a science fair slideshow, which helped explain the problem, the solution, and the feedback we received. The video and slideshow work together because one shows the app in motion and the other explains the idea behind it. We wanted the media to be clear, engaging, and simple enough for people of different ages to follow. That way, the presentation supports the project instead of distracting from it.",
         "keys": [
-          "YouTube demo ID 37GZIq1cof8",
-          "Gemini live share 857ceec59532",
-          "Science fair slideshow used"
+          "Demo video shows sign-in, matcher, cover letters, and interview practice",
+          "Live Gemini project link lets judges try it themselves",
+          "Science fair slideshow explains the problem and solution"
         ]
       },
       {
         "q": "How does media enhance understanding?",
-        "a": "Video full flow: discovery filters, AI outputs. Live link interact. Slides problem/solution. Clear engaging.",
+        "a": "Our media helps people understand the project much faster than words alone. The demo video shows exactly how the app works, so judges can see the job search flow, the cover letter tool, and the interview coach without guessing. The science fair slideshow helps explain why we made the app and what problem it solves in the community. We also shared a live link so people could interact with the project instead of only watching it. That made the experience more memorable and more practical. Because our project is for a younger audience, we wanted the media to feel clean, bright, and easy to follow. We made sure the visuals supported the story of the app and did not make it harder to understand. The goal was to help judges quickly see that JobSpark is useful, well organized, and built with real users in mind.",
         "keys": [
-          "Video shows discovery filters, AI outputs",
-          "Live Gemini link for interaction",
-          "Slides cover problem/solution"
+          "Demo video shows the app flow step by step",
+          "Slideshow explains why the app was built",
+          "Live link makes the presentation interactive"
         ]
       }
     ]
